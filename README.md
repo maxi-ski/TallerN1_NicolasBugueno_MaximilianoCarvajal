@@ -6,13 +6,13 @@
 - RUT : 20.007.300-2
 - Carrera: Ingeniería Civil en Computación e informática 
 - Asignatura: Estructuras de Datos — 2° Semestre 2026
-- Profesor: Juan Nilo  | Ayudante: Daniel Durán
+- Profesor: Juan Nilo  & Bastian Ruiz | Ayudante: Daniel Durán
 
 - Estudiante: Maximiliano Carvajal
 - RUT :
-- Carrera: Ingeniería Civil en Computación e informática 
+- Carrera: 
 - Asignatura: Estructuras de Datos — 2° Semestre 2026
-- Profesor: Juan Nilo  | Ayudante: Daniel Durán
+- Profesor: Juan Nilo  & Bastian Ruiz| Ayudante: Daniel Durán
 
 ```
  
